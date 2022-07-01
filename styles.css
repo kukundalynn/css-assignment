@@ -1,0 +1,60 @@
+div{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    line-height: 125px;
+    text-decoration-color: none;
+}
+body{
+    margin: 0;
+}
+.my-bio{
+    background-color: aquamarine;
+    
+    }
+.my-photo{
+    background-color: blueviolet;
+    margin-left: 500px;
+    margin-top: -250px
+}
+.education-background{
+    background-color: brown;
+    margin-left: 250px;
+
+}
+.my-hobbies{
+    background-color: blue;
+    
+}
+.contact-me{
+    background-color:rgb(81, 255, 0) ;
+    margin-left: 500px;
+    margin-top: -250px;
+}
+p{
+    display: inline-block;
+}
+div.p{
+    text-align: center;
+}
+a{
+    display: block;
+    width: 250px;
+    height: 250px;
+}
+.my-bio:hover{
+    background-color: rgb(255, 0, 242);
+}
+.my-photo.hover{
+    background-color:rgb(255, 253, 240);
+
+}
+.education-background.hover{
+    background-color: rgb(255, 127, 127);
+}
+.my-hobbies.hover{
+    background-color: rgb(174, 255, 127);
+}
+.contact-me.hover{
+    background-color: rgb(215, 250, 248);
+}
